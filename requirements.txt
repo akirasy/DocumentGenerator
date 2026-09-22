@@ -1,0 +1,3 @@
+customtkinter==6.0.0
+dxpdf==0.8.1
+python-docx==1.2.0

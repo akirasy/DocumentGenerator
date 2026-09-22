@@ -1,0 +1,10 @@
+# Environments
+venv/
+
+# Generated Output
+output/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
